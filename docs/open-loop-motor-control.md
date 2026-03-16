@@ -35,17 +35,17 @@ The constants LEFT_OFFSET and RIGHT_OFFSET have been introduced in the source co
 ## Results
 | Right Motor PWM | Left Motor PWM | Distance (m) | Right Offset | Left Offset | Speed (ms<sup>-1</sup>) | Direction of Travel   |
 |-----------------|----------------|--------------|--------------|-------------|-------------------------|-----------------------|
-| 100             | 100            | 1.0          | 0            | 0           | 0                       | Veers off to the left |
+| 100             | 100            | 1.0          | 0            | 0           | 0.210                   | Veers off to the left |
 |                 |                | 1.0          | 0            | 24          | 0.278                   | Straight              |
 |                 |                | 1.5          | 0            | 24          | 0.265                   | Straight              |
 |                 |                | 2.0          | 0            | 24          | 0.295                   | Straight              |
 |                 |                |              |              |             |                         |                       |
-| 150             | 150            | 1.0          | 0            | 0           | 0                       | Veers off to the left |
+| 150             | 150            | 1.0          | 0            | 0           | 0.213                   | Veers off to the left |
 |                 |                | 1.0          | 0            | 40          | 0.300                   | Straight              |
 |                 |                | 1.5          | 0            | 40          | 0.257                   | Straight              |
 |                 |                | 2.0          | 0            | 40          | 0.204                   | Straight              |
 |                 |                |              |              |             |                         |                       |
-| 200             | 200            | 1.0          | 0            | 0           | 0                       | Veers off to the left |
+| 200             | 200            | 1.0          | 0            | 0           | 0.291                   | Veers off to the left |
 |                 |                | 1.0          | 0            | 44          | 0.400                   | Straight              |
 |                 |                | 1.5          | 0            | 44          | 0.420                   | Straight              |
 |                 |                | 2.0          | 0            | 44          | 0.460                   | Straight              |
