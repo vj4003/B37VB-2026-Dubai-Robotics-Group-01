@@ -42,13 +42,13 @@ The constants LEFT_OFFSET and RIGHT_OFFSET have been introduced in the source co
 |                 |                |              |              |             |                         |                       |
 | 150             | 150            | 1.0          | 0            | 0           | 0.213                   | Veers off to the left |
 |                 |                | 1.0          | 0            | 40          | 0.300                   | Straight              |
-|                 |                | 1.5          | 0            | 40          | 0.257                   | Straight              |
-|                 |                | 2.0          | 0            | 40          | 0.204                   | Straight              |
+|                 |                | 1.5          | 0            | 40          | 0.373                   | Straight              |
+|                 |                | 2.0          | 0            | 40          | 0.423                   | Straight              |
 |                 |                |              |              |             |                         |                       |
 | 200             | 200            | 1.0          | 0            | 0           | 0.291                   | Veers off to the left |
 |                 |                | 1.0          | 0            | 44          | 0.400                   | Straight              |
 |                 |                | 1.5          | 0            | 44          | 0.420                   | Straight              |
-|                 |                | 2.0          | 0            | 44          | 0.460                   | Straight              |
+|                 |                | 2.0          | 0            | 44          | 0.466                   | Straight              |
 
 ## Analysis
 The speed of the buggy was calculated for the following distances; 1.0,1.5,2.0 metres to setup a benchmark for the most optimized value for left and right motor pwm.
