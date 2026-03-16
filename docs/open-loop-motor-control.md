@@ -45,7 +45,7 @@ The constants LEFT_OFFSET and RIGHT_OFFSET have been introduced in the source co
 |                 |                | 1.5          | 0            | 40          | 0.257                   | Straight              |
 |                 |                | 2.0          | 0            | 40          | 0.204                   | Straight              |
 |                 |                |              |              |             |                         |                       |
-| 200             |                | 1.0          | 0            | 0           | 0                       | Veers off to the left |
+| 200             | 200            | 1.0          | 0            | 0           | 0                       | Veers off to the left |
 |                 |                | 1.0          | 0            | 44          | 0.400                   | Straight              |
 |                 |                | 1.5          | 0            | 44          | 0.420                   | Straight              |
 |                 |                | 2.0          | 0            | 44          | 0.460                   | Straight              |
