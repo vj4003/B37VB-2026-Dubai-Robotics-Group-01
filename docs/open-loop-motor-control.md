@@ -1,9 +1,9 @@
 # Open Loop Control - Motor Characterization (Report)
 
-Name: Vishal Jagannathan
-Department: EECE
-Year: 1
-Date: 16/03/2026
+**Name:** Vishal Jagannathan  
+**Course:** EECE  
+**Yea:** 1
+**Date:** 16/03/2026
 
 ## Abstract
 The fundamental purpose of this experiment is to understand open loop based systems and therefore characterize motors in order to enable a buggy to travel in a straight line.
