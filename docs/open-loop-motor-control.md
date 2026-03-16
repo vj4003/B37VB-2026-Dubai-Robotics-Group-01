@@ -3,7 +3,6 @@
 **Name:** Vishal Jagannathan 
 **Department:** EECE 
 **Year:** 1
-
 **Date:** 16 March 2026
 
 ## Abstract
@@ -28,6 +27,7 @@ The buggy was tested at the following pwm values:
 1. 100
 2. 150
 3. 200
+
 at a fixed distance of 2 metres.
 
 The constants LEFT_OFFSET and RIGHT_OFFSET have been introduced in the source code in order to enable the buggy to move in a straight line
