@@ -2,8 +2,8 @@
 
 **Name:** Vishal Jagannathan  
 **Course:** EECE  
-**Yea:** 1
-**Date:** 16/03/2026
+**Year:** 1
+**Date:** 16-03-2026
 
 ## Abstract
 The fundamental purpose of this experiment is to understand open loop based systems and therefore characterize motors in order to enable a buggy to travel in a straight line.
@@ -38,12 +38,12 @@ The constants LEFT_OFFSET and RIGHT_OFFSET have been introduced in the source co
 |                 |                | 1.0          | 0            | 24          | 0.278                   | Straight              |
 |                 |                | 1.5          | 0            | 24          | 0.265                   | Straight              |
 |                 |                | 2.0          | 0            | 24          | 0.295                   | Straight              |
-|-----------------|----------------|--------------|--------------|-------------|-------------------------|-----------------------|
+|                 |                |              |              |             |                         |                       |
 | 150             | 150            | 1.0          | 0            | 0           | 0                       | Veers off to the left |
 |                 |                | 1.0          | 0            | 40          | 0.300                   | Straight              |
 |                 |                | 1.5          | 0            | 40          | 0.257                   | Straight              |
 |                 |                | 2.0          | 0            | 40          | 0.204                   | Straight              |
-|-----------------|----------------|--------------|--------------|-------------|-------------------------|-----------------------|
+|                 |                |              |              |             |                         |                       |
 | 200             |                | 1.0          | 0            | 0           | 0                       | Veers off to the left |
 |                 |                | 1.0          | 0            | 44          | 0.400                   | Straight              |
 |                 |                | 1.5          | 0            | 44          | 0.420                   | Straight              |
