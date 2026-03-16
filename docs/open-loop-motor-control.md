@@ -59,9 +59,9 @@ Eg. Consider the following case:
 Initial Left Motor PWM = 100
 Left Offset = 24
 
-Left Motor PWM = Initial Left Motor PWM + Left Offset
-Left Motor PWM = 100 + 24
-               = 124
+Left Motor PWM = Initial Left Motor PWM + Left Offset  
+Left Motor PWM = 100 + 24  
+               = 124  
 
 The dataset has been limited to 2 metres as this is the maximum treshold before the buggy begins to veer off its path.
 The code for motor control can be found in the github repository: open-loop-motor-control.ino [2]
