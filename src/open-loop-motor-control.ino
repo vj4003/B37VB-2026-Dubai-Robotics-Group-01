@@ -23,8 +23,6 @@
 
 #define MOTOR_PWM_DECREMENT_VALUE 20
 
-#define VARIABLE_SPEED_ENABLE 0
-
 // Compile-time check of initial PWM values
 #if ((MOTOR_L_PWM_INITIAL_VALUE < PWM_VALUE_MIN) || (MOTOR_L_PWM_INITIAL_VALUE > PWM_VALUE_MAX))
   #error "MOTOR_L_PWM_INITIAL_VALUE is out of range"
@@ -107,18 +105,5 @@ void loop()
   UpdateMotorSpeed(LeftMotorPWMValue + LEFT_OFFSET,
                    RightMotorPWMValue + RIGHT_OFFSET,
                    UPDATE_PERIOD_MS);
-
-  #if VARIABLE_SPEED_ENABLE
-    if (LeftMotorPWMValue >= MOTOR_PWM_DECREMENT_VALUE)
-    {
-      LeftMotorPWMValue  -= MOTOR_PWM_DECREMENT_VALUE;
-      RightMotorPWMValue -= MOTOR_PWM_DECREMENT_VALUE;
-    }
-    else
-    {
-      LeftMotorPWMValue  = MOTOR_L_PWM_INITIAL_VALUE;
-      RightMotorPWMValue = MOTOR_R_PWM_INITIAL_VALUE;
-    }
-  #endif
 }
 
