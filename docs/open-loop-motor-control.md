@@ -1,7 +1,7 @@
 # Open Loop Control - Motor Characterization (Report)
 
-**Name:** Vishal Jagannathan <br>  
-**Department:** EECE <br>   
+**Name:** Vishal Jagannathan 
+**Department:** EECE 
 **Year:** 1 <br>
 **Date:** 16 March 2026
 
