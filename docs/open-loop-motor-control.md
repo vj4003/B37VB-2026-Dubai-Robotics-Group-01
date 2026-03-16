@@ -2,7 +2,8 @@
 
 **Name:** Vishal Jagannathan 
 **Department:** EECE 
-**Year:** 1 <br>
+**Year:** 1
+
 **Date:** 16 March 2026
 
 ## Abstract
