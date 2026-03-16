@@ -1,9 +1,9 @@
 # Open Loop Control - Motor Characterization (Report)
 
-**Name: ** Vishal Jagannathan
-**Department: ** EECE
-**Year: ** 1
-**Date: ** 16/03/2026
+Name: Vishal Jagannathan
+Department: EECE
+Year: 1
+Date: 16/03/2026
 
 ## Abstract
 The fundamental purpose of this experiment is to understand open loop based systems and therefore characterize motors in order to enable a buggy to travel in a straight line.
@@ -68,7 +68,6 @@ The code for motor control can be found in the github repository: open-loop-moto
 ## Conclusion
 The experiment has facilitated the development and understanding in implementing an open loop control based system.
 
-## References
 ## References
 1. W. Bolton, *Mechatronics: Electronic Control Systems in Mechanical and Electrical Engineering*, 6th ed. Harlow, U.K.: Pearson Education, 2015.
 2. Canvas learning material
